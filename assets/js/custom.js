@@ -6,9 +6,9 @@
 
     100% Free To use For Personal And Commercial Use.
     IN EXCHANGE JUST GIVE US CREDITs AND TELL YOUR FRIENDS ABOUT US
-   
-    ========================================================  */
 
+    ========================================================  */
+ 
 (function ($) {
     "use strict";
     var mainApp = {
@@ -16,7 +16,7 @@
         main_fun: function () {
 
             /*====================================
-             EASING PLUGIN SCRIPTS 
+             EASING PLUGIN SCRIPTS
             ======================================*/
             $(function () {
                 $('.move-me a').bind('click', function (event) { //just pass move-me in design and start scrolling
@@ -28,7 +28,7 @@
                 });
             });
             /*====================================
-            SKILL CHART SCRIPTS 
+            SKILL CHART SCRIPTS
            ======================================*/
             $(function () {
                 $('.chart').easyPieChart({
@@ -43,13 +43,13 @@
 
             });
             /*====================================
-           DOWNLOAD RESUME SECTION TOOL TIP SCRIPTS 
+           DOWNLOAD RESUME SECTION TOOL TIP SCRIPTS
           ======================================*/
             $(function () {
                 $('a[title]').tooltip();
             });
             /*====================================
-       TESTIMONIAL SECTION SCRIPTS 
+       TESTIMONIAL SECTION SCRIPTS
        ======================================*/
             $('#Quotes').carousel({
                 interval: 4000 //TIME IN MILLI SECONDS
@@ -62,11 +62,11 @@
                 social_tools: false
             });
             /*====================================
-             WOW PLUGIN SCRIPTS 
+             WOW PLUGIN SCRIPTS
             ======================================*/
             new WOW().init();
-        
-	
+
+
             /*====================================
             WRITE YOUR SCRIPTS HERE
             ======================================*/

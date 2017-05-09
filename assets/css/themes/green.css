@@ -6,7 +6,7 @@
 
     100% Free To use For Personal And Commercial Use.
     IN EXCHANGE JUST GIVE US CREDITs AND TELL YOUR FRIENDS ABOUT US
-   
+
     ========================================================  */
 
 /* =============================================================
@@ -22,12 +22,12 @@ color:#00ADAD;
 .custom-btn-one {
    border-color: #00ADAD;
 }
-   
+
 /* =============================================================
   HOME SECTION STYLES
  ============================================================ */
 
- #home-sec .main-img {     
+ #home-sec .main-img {
    border:5px solid #00ADAD;
 }
  #home-sec .main-img-2 {
@@ -56,14 +56,14 @@ color:#00ADAD;
 }
 
   /*=====================================
-  TESTIMONIALS STYLES 
+  TESTIMONIALS STYLES
     ===================================*/
 
     #Quotes img {
         border:3px solid #00ADAD;
     }
     /*=====================================
-  PORTFOLIO STYLES 
+  PORTFOLIO STYLES
     ===================================*/
 
 .activity-wrap .overlay {
@@ -71,7 +71,7 @@ color:#00ADAD;
 }
 
  /*=====================================
-  FOOTER STYLES 
+  FOOTER STYLES
     ===================================*/
 #footer-sec h3{
     color: #00ADAD;
@@ -80,7 +80,7 @@ color:#00ADAD;
     color: #00ADAD;
 }
  /*=====================================
-  SCROLLUP STYLES 
+  SCROLLUP STYLES
     ===================================*/
 a.scrollup {
 background: #00ADAD;

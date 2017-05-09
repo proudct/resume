@@ -6,12 +6,12 @@
 
 (function ($) {
     "use strict";
-    var mainAppNew = {
+    var mainAppNew = { 
 
         main_fun: function () {
 
             /*=====================================
-             THEME SWITCHER SCRIPTS 
+             THEME SWITCHER SCRIPTS
             ===================================*/
             jQuery('#switch-panel').click(function () {
                 if (jQuery(this).hasClass('show-panel')) {
@@ -37,7 +37,7 @@
             $('#brown').click(function () {
                 $('#mainCSS').attr('href', 'assets/css/themes/brown.css');
             });
-          
+
         },
 
         initialization: function () {

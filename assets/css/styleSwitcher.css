@@ -6,13 +6,13 @@
 
     100% Free To use For Personal And Commercial Use.
     IN EXCHANGE JUST GIVE US CREDITs AND TELL YOUR FRIENDS ABOUT US
-   
+
     ========================================================  */
 
 /*=====================================
-  THEME SWITCHER STYLES 
+  THEME SWITCHER STYLES
    ===================================*/
-.switcher {
+.switcher { 
     width:50px;
     padding:10px;
     position:fixed;
@@ -27,7 +27,7 @@
     transition:all .4s ease-in-out;
 	color:#000000;
 }
-   
+
 .switcher #switch-panel {
     position:absolute;
     right:-34px;
@@ -74,5 +74,3 @@
 .switcher .colors-list a.brown {
     background-color:#9B8E00;
 }
-
-

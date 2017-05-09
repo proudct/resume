@@ -1,12 +1,12 @@
 ﻿/*=============================================================
     Authour URI: www.binarytheme.com
-    License: Commons Attribution 3.0
+    License: Commons Attribution 3
 
     http://creativecommons.org/licenses/by/3.0/
 
     100% Free To use For Personal And Commercial Use.
     IN EXCHANGE JUST GIVE US CREDITs AND TELL YOUR FRIENDS ABOUT US
-   
+
     ========================================================  */
 
 /* =============================================================
@@ -22,12 +22,12 @@ color:#2549BB;
 .custom-btn-one {
    border-color: #2549BB;
 }
-   
+
 /* =============================================================
   HOME SECTION STYLES
  ============================================================ */
 
- #home-sec .main-img {     
+ #home-sec .main-img {
    border:5px solid #2549BB;
 }
  #home-sec .main-img-2 {
@@ -56,14 +56,14 @@ color:#2549BB;
 }
 
   /*=====================================
-  TESTIMONIALS STYLES 
+  TESTIMONIALS STYLES
     ===================================*/
 
     #Quotes img {
         border:3px solid #2549BB;
     }
     /*=====================================
-  PORTFOLIO STYLES 
+  PORTFOLIO STYLES
     ===================================*/
 
 .activity-wrap .overlay {
@@ -71,7 +71,7 @@ color:#2549BB;
 }
 
  /*=====================================
-  FOOTER STYLES 
+  FOOTER STYLES
     ===================================*/
 #footer-sec h3{
     color: #2549BB;
@@ -80,7 +80,7 @@ color:#2549BB;
     color: #2549BB;
 }
  /*=====================================
-  SCROLLUP STYLES 
+  SCROLLUP STYLES
     ===================================*/
 a.scrollup {
 background: #2549BB;
